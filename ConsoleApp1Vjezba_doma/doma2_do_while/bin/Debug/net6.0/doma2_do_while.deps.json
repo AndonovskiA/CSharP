@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "doma2_do_while/1.0.0": {
+        "runtime": {
+          "doma2_do_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "doma2_do_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

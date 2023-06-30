@@ -1,0 +1,15 @@
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.AssemblyInfo.cs
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\bin\Debug\net6.0\doma2_do_while.exe
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\bin\Debug\net6.0\doma2_do_while.deps.json
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\bin\Debug\net6.0\doma2_do_while.runtimeconfig.json
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\bin\Debug\net6.0\doma2_do_while.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\bin\Debug\net6.0\doma2_do_while.pdb
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\refint\doma2_do_while.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.pdb
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\doma2_do_while.genruntimeconfig.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\doma2_do_while\obj\Debug\net6.0\ref\doma2_do_while.dll

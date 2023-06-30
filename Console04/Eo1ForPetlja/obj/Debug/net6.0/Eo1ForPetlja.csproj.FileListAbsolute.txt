@@ -1,0 +1,15 @@
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\bin\Debug\net6.0\Eo1ForPetlja.exe
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\bin\Debug\net6.0\Eo1ForPetlja.deps.json
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\bin\Debug\net6.0\Eo1ForPetlja.runtimeconfig.json
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\bin\Debug\net6.0\Eo1ForPetlja.dll
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\bin\Debug\net6.0\Eo1ForPetlja.pdb
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.AssemblyInfo.cs
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.dll
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\refint\Eo1ForPetlja.dll
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.pdb
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\Eo1ForPetlja.genruntimeconfig.cache
+C:\Users\Anja\Desktop\csharp doma\Console04\Eo1ForPetlja\obj\Debug\net6.0\ref\Eo1ForPetlja.dll

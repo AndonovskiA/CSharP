@@ -1,0 +1,15 @@
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\bin\Debug\net6.0\ConsoleApp1Vjezba_doma.exe
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\bin\Debug\net6.0\ConsoleApp1Vjezba_doma.deps.json
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\bin\Debug\net6.0\ConsoleApp1Vjezba_doma.runtimeconfig.json
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\bin\Debug\net6.0\ConsoleApp1Vjezba_doma.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\bin\Debug\net6.0\ConsoleApp1Vjezba_doma.pdb
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.AssemblyInfo.cs
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\refint\ConsoleApp1Vjezba_doma.dll
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.pdb
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ConsoleApp1Vjezba_doma.genruntimeconfig.cache
+C:\Users\Anja\Desktop\csharp doma\ConsoleApp1Vjezba_doma\ConsoleApp1Vjezba_doma\obj\Debug\net6.0\ref\ConsoleApp1Vjezba_doma.dll
